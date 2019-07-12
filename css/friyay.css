@@ -1,0 +1,116 @@
+
+h1{
+    font-size: 10vh;
+}
+
+
+h2 {
+    size: 60vh;
+    color: #2522B4;
+}
+
+body {
+    background-image: url(../img/blob-shape.png);
+    background-repeat: no-repeat;
+    background-position: right 0vh;
+
+}
+
+
+.feature-img {
+    position: relative;
+    bottom: -89px;
+}
+
+.blob{
+    background-color: transparent!important;
+    background-image: url(../img/blob-shape.png);
+    background-repeat: no-repeat;
+    background-position: 97vh -14vh;
+}
+
+.feature-image02{
+   
+    position: relative;
+    right: -8vw;
+    bottom: -26vh;
+
+}
+
+.heading-container{
+    padding-top: 10vh;
+    padding-right: 11vh;
+ 
+}
+
+.menu-item{
+    padding-right: 7vh;
+    font-weight: 700;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover { 
+    color: red;
+    
+  }
+
+
+.navbar{
+    height: 18vh;
+}
+
+.button-center {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.overlay {
+
+background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+
+}
+
+.contact-form-adopt{
+    position: relative;
+    top: -170vh;
+    height: 50%;
+
+}
+
+.contact-form-foster {
+    position: relative;
+    top: -88vh;
+    height: 50%;
+}
+
+.textarea {
+    overflow: auto;
+    resize: vertical;
+    height: 8vh;
+}
+
+.btn-primary{
+    background-color: red;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    width: 14vh;
+}
+
+.btn-primary02{
+    background-color: red;
+    border: none;
+    color: white;
+}
+
+.close {
+    width: 4vh;
+}
